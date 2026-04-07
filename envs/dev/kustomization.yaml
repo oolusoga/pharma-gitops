@@ -1,7 +1,5 @@
 resources:
   - namespace.yaml
-  - ../../k8s/rbac/dev-role.yaml
-  - ../../k8s/rbac/rolebindings.yaml
-  - ../../k8s/external-secrets/cluster-secret-store.yaml
-  - ../../k8s/external-secrets/dev-external-secrets.yaml
-  - ../../k8s/ingress/pharma-ingress.yaml
+  - rbac/dev-role.yaml
+  - rbac/rolebindings.yaml
+  - ingress/pharma-ingress.yaml
