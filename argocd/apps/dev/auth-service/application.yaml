@@ -13,7 +13,7 @@ spec:
   project: pharma
 
   source:
-    repoURL: https://github.com/ravdy/pharmops-gitops.git
+    repoURL: https://github.com/oolusoga/pharmops-gitops.git
     targetRevision: HEAD
     path: pharma-service
     helm:
