@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: 873135413040.dkr.ecr.us-east-1.amazonaws.com/pharma-ui
+  repository: 763960054907.dkr.ecr.us-east-1.amazonaws.com/pharma-ui
   tag: v1.0.2
   pullPolicy: Always
 

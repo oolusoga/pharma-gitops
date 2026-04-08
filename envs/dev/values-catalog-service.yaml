@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: 873135413040.dkr.ecr.us-east-1.amazonaws.com/catalog-service
+  repository: 763960054907.dkr.ecr.us-east-1.amazonaws.com/catalog-service
   tag: v1.0.1
   pullPolicy: Always
 
