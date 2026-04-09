@@ -13,7 +13,7 @@ spec:
   project: pharma
 
   source:
-    repoURL: https://github.com/oolusoga/pharmops-gitops.git
+    repoURL: https://github.com/oolusoga/pharma-gitops.git
     targetRevision: HEAD
     path: k8s-manifests/pharma-ui
 

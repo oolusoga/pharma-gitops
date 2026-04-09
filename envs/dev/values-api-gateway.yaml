@@ -18,7 +18,6 @@ ingress:
   annotations:
     nginx.ingress.kubernetes.io/rewrite-target: /$2
     nginx.ingress.kubernetes.io/use-regex: "true"
-  host: dev.pharma.internal
   path: /api(/|$)(.*)
   pathType: ImplementationSpecific
 

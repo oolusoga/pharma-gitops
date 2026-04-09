@@ -11,7 +11,6 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: "dev.pharma.internal"
       http:
         paths:
           - path: /
